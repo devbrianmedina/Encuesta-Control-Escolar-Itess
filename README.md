@@ -29,3 +29,17 @@ Llena automaticamente la encuesta del control escolar itess
 13. **Presiona Enter para ejecutar el código en la consola.**
 
 14. **El código comenzará a ejecutarse y realizará las acciones especificadas en la página web.**
+
+- **Comenzamos la encuesta**
+<img width="1440" alt="imagen" src="https://github.com/devbrianmedina/Encuesta-Control-Escolar-Itess/assets/38367679/f1abd92a-2ec3-4155-be78-b391050dad05">
+
+- **Respondemos la primer pregunta de la primer materia**
+<img width="1440" alt="imagen" src="https://github.com/devbrianmedina/Encuesta-Control-Escolar-Itess/assets/38367679/c1e848c5-c9bb-4d1a-8eb1-7fc216e4ba02">
+
+- **Nos dirigimos a la consola**
+<img width="505" alt="imagen" src="https://github.com/devbrianmedina/Encuesta-Control-Escolar-Itess/assets/38367679/13a238ce-122f-4c83-9ca8-3e6ffd5d3ed3">
+
+- **Pegamos el codigo y ejecutamos**
+<img width="1439" alt="imagen" src="https://github.com/devbrianmedina/Encuesta-Control-Escolar-Itess/assets/38367679/4246b7dc-181b-4b63-b241-712c35364025">
+
+
